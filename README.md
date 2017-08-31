@@ -1,7 +1,21 @@
 # AWS
 In this repository different models of architectures are presented to implement systems in the cloud with AWS.
 
-To view the diagrams go to https://www.draw.io/ and with Github:   
-  **1.  Open Existing Diagram**      
-  **2.  Enter Value : SamoxPro/aws/master**                              
-  **3. Select the extension .xml diagram you want to see**   
+
+### Features:
+* EC2
+* RDS
+* Route 53
+* Clud Front
+* S3
+* Security Group
+* ELB
+
+## Requirements
+* Draw.io is a completely free diagram editor. (e.g. [draw.io](https://www.draw.io/));
+
+
+## Configuration
+*  Open Existing Diagram
+*  Enter Value : SamoxPro/aws/master
+*  Select the extension .xml diagram you want to see 
