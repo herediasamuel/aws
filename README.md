@@ -17,5 +17,5 @@ In this repository different models of architectures are presented to implement 
 
 ## Configuration
 *  Open Existing Diagram
-*  Enter Value : SamoxPro/aws/master
+*  Enter Value : herediasamuel/aws/master
 *  Select the extension .xml diagram you want to see 
